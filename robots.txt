@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3km-collab.github.io/smart-invoice-extraction-reconciliation-suite-16/sitemap.xml
